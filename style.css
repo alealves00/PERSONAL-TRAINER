@@ -5,7 +5,7 @@
     justify-self: center;
 }
 .capa{
-    background: url(imagens/Black\ and\ white\ photo\ of\ muscular\ build\ man\ using\ sports\ chalk\ while\ before\ lifting\ a\ barbell\ on\ weight\ training\ in\ a\ gym.png)no-repeat ;
+    background: url(imagens/imgCapa.jpg)no-repeat ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -34,7 +34,7 @@
         align-items: center;
     }
     .serviços{
-        background: url(imagens/academiaGrupo.png)no-repeat;
+        background: url(imagens/academiaGrupo.jpg)no-repeat;
         background-size: cover;
         background-position: center;
         height: 100vh;
